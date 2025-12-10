@@ -1,7 +1,0 @@
-name: financial-risk-prediction
-dependencies:
-  - python=3.9
-  - scikit-learn
-  - pandas
-  - numpy
-  - matplotlib
