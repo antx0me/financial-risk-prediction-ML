@@ -1,0 +1,11 @@
+numpy>=1.22
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.6
+joblib>=1.2
+flask>=2.2
+streamlit>=1.22
+pytest>=7.2
+xgboost>=2.0      # optional/advanced model
+shap>=0.42.1      # optional for explainability
+imbalanced-learn>=0.10   # optional for class balancing
